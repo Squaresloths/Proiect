@@ -1,0 +1,25 @@
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(1, 0%, 29%);
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    background-color: hsl(1, 0%, 19%);
+}
+
+a {
+    text-decoration: none;
+    color: red
+}
+
+footer {
+    background-color: hsl(1, 0%, 55%);
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+}
